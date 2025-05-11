@@ -91,9 +91,7 @@ smart-study-assistant/
 └── tests/
     ├── __init__.py
     ├── test_assistant.py
-    ├── test_concept_explainer.py
-    ├── test_quiz_generator.py
-    └── test_study_planner.py
+
 ```
 
 ## 🤖 How It Works
