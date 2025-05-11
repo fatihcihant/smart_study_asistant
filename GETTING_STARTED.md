@@ -15,7 +15,7 @@ Before you begin, make sure you have:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-study-assistant.git
+git clone https://github.com/fatihcihant/smart_study_asistant.git
 cd smart-study-assistant
 ```
 
