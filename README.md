@@ -20,7 +20,7 @@ A CLI-based study companion powered by Google Gemini that helps you learn more e
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/smart-study-assistant.git
+   git clone https://github.com/fatihcihant/smart_study_asistant.git
    cd smart-study-assistant
    ```
 
