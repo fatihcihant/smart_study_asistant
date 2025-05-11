@@ -148,13 +148,3 @@ If you get syntax errors or import errors:
 - Verify you're using Python 3.8 or higher
 - Make sure all dependencies are installed
 
-## Next Steps
-
-Once you're comfortable with the basic functionality, consider:
-
-1. Adding your own custom study materials
-2. Contributing to the project by adding new features
-3. Setting up a regular study routine using the generated study plans
-4. Sharing feedback or reporting issues on GitHub
-
-Happy studying!
